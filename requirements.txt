@@ -1,0 +1,10 @@
+ipykernel
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+pandas
+rich
+seaborn
+tqdm
+yfinance

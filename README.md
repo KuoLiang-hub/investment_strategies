@@ -86,7 +86,7 @@ This strategy tests a **contrarian investment approach** — buying recent under
 3. Launch the Jupyter Notebook:
   
   ```bash
-  jupyter notebook
+  jupyter lab
   ```
   
 4. Open `biggest_loser_strategy.ipynb` and run all cells.
