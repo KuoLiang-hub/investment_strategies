@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-![Strategy Performance Preview](Pictues/big_loser_lines_8.png)
+![Strategy Performance Preview](Pictues/big_loser_lines_9.png)
 *A sample plot of the strategy performance compared to dollar-cost averaging.*
 
 ---
